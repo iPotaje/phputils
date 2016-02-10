@@ -1,0 +1,6 @@
+{
+    "name"        : "ipotaje/utils",
+    "require"     : {
+        "abeautifulsite/simpleimage" : "~2.6"
+    }
+}
